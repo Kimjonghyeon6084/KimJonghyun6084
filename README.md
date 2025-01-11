@@ -1,2 +1,2 @@
-# KimJonghyun6084
-https://capsule-render.vercel.app/api?
+# KimJonghyun
+* 웹 백엔드 개발자
